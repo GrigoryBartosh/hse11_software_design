@@ -1,4 +1,4 @@
-# Проектирование [Telegram bot](t.me/hse11_design_bot)
+# Проектирование [Telegram bot](https://t.me/hse11_design_bot)
 
 <p align="center">
 <img align="middle" src="./imgs/dialogue_example.png" />
