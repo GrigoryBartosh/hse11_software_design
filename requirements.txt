@@ -1,0 +1,8 @@
+git+https://github.com/openai/CLIP.git
+
+sentencepiece==0.1.96
+asrecognition==0.0.4
+
+faiss==1.5.3
+
+python-telegram-bot==13.9
